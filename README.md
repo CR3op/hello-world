@@ -1,2 +1,4 @@
 # hello-world
-first respository
+first respository on GitHub
+
+I love :coffee: :pizza:, and :dancer:.
